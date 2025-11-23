@@ -1,0 +1,5 @@
+{
+  "name": "InteriorAI Studio",
+  "description": "An AI-powered interior design assistant that lets you redesign your space using text prompts. Upload a photo of your room and describe the changes you want to see.",
+  "requestFramePermissions": []
+}
